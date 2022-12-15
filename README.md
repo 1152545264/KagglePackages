@@ -1,2 +1,2 @@
 # KagglePackages
-kaggle比赛常用的库
+kaggle比赛一些常用的第三方库
